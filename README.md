@@ -1,6 +1,6 @@
 # Online nastava 
 
-Zadaci koje učiteljica šalje putem Viber za kućnu nastavu. Suplement za RTS 3 program.
+Zadaci koje učiteljica šalje za kućnu nastavu. Suplement za RTS 3 program.
 
 OŠ Milena Pavlović Barili, za 3 razred.
 
