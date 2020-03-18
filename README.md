@@ -11,12 +11,37 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 
 ## 2020-03-18 (Četvrtak)
 
-|       Predmet       |                                    Zadaci                                    |
-| ------------------- | ---------------------------------------------------------------------------- |
-| Srpski              | Prepisati pravilno [listić](a/srp/jadransko_more.jpg) pazeći na pravopis |
-| Matematika          | Radna sveska str. 45 i 56                                                    |
-| Slobodne aktivnosti | Nacrtati kako se štiti od korona virusa                                      |
+|       Predmet       |                                         Zadaci                                          |
+| ------------------- | --------------------------------------------------------------------------------------- |
+| Srpski              | Prepisati pravilno [listić](a/srp/jadransko_more.jpg) pazeći na pravopis                |
+| Matematika          | Radna sveska str. 45 i 56                                                               |
+| Slobodne aktivnosti | Nacrtati kako se štiti od korona virusa                                                 |
 
+### Engleski
+
+Do Subote, 2020-03-21
+
+- Udžbenik str. 66-69 
+- Bakingamska palata 
+    - Vežba 3
+    - Usvajanje reči u vezi sa kućom i prostorijama 
+    - Udžbenik str. 64
+- Radna sveska str. 65
+- CD: 8 lekcija, module 8
+- Vežba *have got*, igračke i životinje - preslušati po jednom svaku od sledećih pesama i zapisati naslov pesme koja se najviše dopada sa datumom u školskoj svesci:
+    - [Have you got a pet? (song for children)](https://www.youtube.com/watch?v=6qh_qTOgkhY&feature=youtu.be)
+    - [Have got song](https://www.youtube.com/watch?v=zxl7RXsnDA4&feature=youtu.be)
+    - [Toys / Have Got](https://www.youtube.com/watch?v=qAFZU1qliJI&feature=youtu.be)
+    - [I've got I haven't got 🙂 Toys WORKSHEET IN THE DESCRIPTION ESL Teach English](https://www.youtube.com/watch?v=ibTiIaI6KsE&feature=youtu.be)
+    - [The Subject Pronouns Song by Teacher Ham!](https://www.youtube.com/watch?v=9BmvvC9qe2s&feature=youtu.be)
+
+Preporuka:
+
+- [Data Status](https://www.mmpublications.com/Serbia/) (**NAPOMENA**: Zahteva Adoble Flash )
+    - Module 4, units 7-8  
+    - Candy words
+    - Zvučni rečnik
+    - Vocabulary
 
 ## 2020-03-17 (Sreda)
 
