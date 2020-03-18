@@ -7,6 +7,6 @@ Zadaci koje učiteljica šalje putem Viber za kućnu nastavu. Suplement za RTS 3
 
 |       Predmet       |                                    Zadaci                                    |
 | ------------------- | ---------------------------------------------------------------------------- |
-| Srpski              | Prepisati pravilno [listić](materijal/jadrasnko_more.jpg) pazeći na pravopis |
+| Srpski              | Prepisati pravilno [listić](materijal/jadransko_more.jpg) pazeći na pravopis |
 | Matematika          | Radna sveska str. 45 i 56                                                    |
 | Slobodne aktivnosti | Nacrtati kako se štiti od korona virusa                                      |
