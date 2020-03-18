@@ -1,3 +1,4 @@
+<!-- omit in toc -->
 # Online nastava 
 
 Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema učiteljica (Mirjana Gajdobranski) za kućnu nastavu. Suplement za RTS 3 program.
@@ -7,6 +8,11 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 - radi online prateći hiper-linkove, ili
 - preuzmi sve offline putem [arhive](https://github.com/majkinetor/online-nastava/archive/master.zip) i prati `README.md` iz bilo kog editora (npr. Notepad)
 
+**TOC**
+
+- [2020-03-18 (Četvrtak)](#2020-03-18-%c4%8cetvrtak)
+  - [Engleski](#engleski)
+- [2020-03-17 (Sreda)](#2020-03-17-sreda)
 
 
 ## 2020-03-18 (Četvrtak)
