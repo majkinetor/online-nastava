@@ -8,9 +8,6 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 - radi online prateći hiper-linkove, ili
 - preuzmi sve offline putem [arhive](https://github.com/majkinetor/online-nastava/archive/master.zip) i prati `README.md` iz bilo kog editora (npr. Notepad)
 
-
----
-
 **TOC**
 
 - [Linkovi](#linkovi)
@@ -18,8 +15,6 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 - [2020-03-18 (Sreda)](#2020-03-18-sreda)
   - [Engleski](#engleski)
 - [2020-03-17 (Utorak)](#2020-03-17-utorak)
-
----
 
 ## Linkovi
 
