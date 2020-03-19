@@ -29,7 +29,7 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Srpski             | Čitanka, u svesci prepisati  pisanom latinicom pesmu *dvije seje brata ne imale*                                                                  |
 | Matematika         | Odgledati video lekciju [Zavisnost količnika od deljenika], i raditi zadatke u radnoj svesci strana 47. (IOP1 samo 1. i 2. zadatak)                                 |
-| Priroda i društvo  | Video lekcija sa interneta [Lanac ishrane], pročitati udžbenik str. 74. i 75. i radna sveska strana 84.<br>U sveskama nacrtati dva lanca ishrane. |
+| Priroda i društvo  | Video lekcija sa interneta [Lanac ishrane], pročitati udžbenik str. 74. i 75. i radna sveska strana 84.<br>U sveskama nacrtati dva lanca ishrane.<br>[Listić](a/pid/lanac-ishrane.jpg) za pomoć u učenju. |
 | Fizičko vaspitanje | Trčanje u prirodi u bezbednom okruženju                                                                                                           |
 
 [Lanac ishrane]: https://www.youtube.com/watch?v=zeU3NbSRLtE&feature=youtu.be
