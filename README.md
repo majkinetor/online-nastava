@@ -15,8 +15,9 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 
 - [Linkovi](#linkovi)
 - [2020-03-18 (Četvrtak)](#2020-03-18-%c4%8cetvrtak)
+- [2020-03-18 (Sreda)](#2020-03-18-sreda)
   - [Engleski](#engleski)
-- [2020-03-17 (Sreda)](#2020-03-17-sreda)
+- [2020-03-17 (Utorak)](#2020-03-17-utorak)
 
 ---
 
@@ -27,6 +28,19 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 
 
 ## 2020-03-18 (Četvrtak)
+
+
+|      Predmet       |                                                                      Zadaci                                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Srpski             | Čitanka, u svesci prepisati  pisanom latinicom pesmu *dvije seje brata ne imale*                                                                  |
+| Matematika         | Odgledati video lekciju [Zavisnost količnika od deljenika], i raditi zadatke u radnoj svesci strana 47. (IOP1 samo 1. i 2. zadatak)                                 |
+| Priroda i društvo  | Video lekcija sa interneta [Lanac ishrane], pročitati udžbenik str. 74. i 75. i radna sveska strana 84.<br>U sveskama nacrtati dva lanca ishrane. |
+| Fizičko vaspitanje | Trčanje u prirodi u bezbednom okruženju                                                                                                           |
+
+[Lanac ishrane]: https://www.youtube.com/watch?v=zeU3NbSRLtE&feature=youtu.be
+[Zavisnost količnika od deljenika]: https://www.youtube.com/watch?v=MN_255T_fMc
+
+## 2020-03-18 (Sreda)
 
 |       Predmet       |                                         Zadaci                                          |
 | ------------------- | --------------------------------------------------------------------------------------- |
@@ -60,7 +74,7 @@ Preporuka:
     - Zvučni rečnik
     - Vocabulary
 
-## 2020-03-17 (Sreda)
+## 2020-03-17 (Utorak)
 
 |       Predmet        |                                                                                   Zadaci                                                                                    |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
