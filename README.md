@@ -8,8 +8,6 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 - radi online prateći hiper-linkove, ili
 - preuzmi sve offline putem [arhive](https://github.com/majkinetor/online-nastava/archive/master.zip) i prati `README.md` iz bilo kog editora (npr. Notepad)
 
-*NAPOMENA*: Da bi videli cele slike na linku slike koristite dugme *Download*.
-
 **TOC**
 
 - [Linkovi](#linkovi)
@@ -27,23 +25,26 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 ## 2020-03-19 (Četvrtak)
 
 
-|      Predmet       |                                                                                                  Zadaci                                                                                                   |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Srpski             | Čitanka, u svesci prepisati  pisanom latinicom pesmu *dvije seje brata ne imale*                                                                                                                          |
-| Matematika         | Odgledati video lekciju [Zavisnost količnika od deljenika], i raditi zadatke u radnoj svesci strana 47. (IOP1 samo 1. i 2. zadatak)                                                                       |
-| Priroda i društvo  | Video lekcija sa interneta [Lanac ishrane], pročitati udžbenik str. 74. i 75. i radna sveska strana 84.<br>U sveskama nacrtati dva lanca ishrane.<br>[Listić](a/pid/lanac-ishrane.jpg) za pomoć u učenju. |
-| Fizičko vaspitanje | Trčanje u prirodi u bezbednom okruženju                                                                                                                                                                   |
+|      Predmet       |                                                                                    Zadaci                                                                                    |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Srpski             | Čitanka, u svesci prepisati  pisanom latinicom pesmu *dvije seje brata ne imale*                                                                                             |
+| Matematika         | Odgledati video lekciju [Zavisnost količnika od deljenika], i raditi zadatke u radnoj svesci strana 47. (IOP1 samo 1. i 2. zadatak)                                          |
+| Priroda i društvo  | Video lekcija sa interneta [Lanac ishrane], pročitati udžbenik str. 74. i 75. i radna sveska strana 84.<br>U sveskama nacrtati dva lanca ishrane.<br>[Prilog: lanac ishrane] |
+| Fizičko vaspitanje | Trčanje u prirodi u bezbednom okruženju                                                                                                                                      |
 
-[Lanac ishrane]: https://www.youtube.com/watch?v=zeU3NbSRLtE&feature=youtu.be
+[Prilog: lanac ishrane]:            https://raw.githubusercontent.com/majkinetor/online-nastava/master/a/pid/lanac-ishrane.jpg
+[Lanac ishrane]:                    https://www.youtube.com/watch?v=zeU3NbSRLtE&feature=youtu.be
 [Zavisnost količnika od deljenika]: https://www.youtube.com/watch?v=MN_255T_fMc
 
 ## 2020-03-18 (Sreda)
 
-|       Predmet       |                                         Zadaci                                          |
-| ------------------- | --------------------------------------------------------------------------------------- |
-| Srpski              | Prepisati pravilno [listić](a/srp/jadransko_more.jpg) pazeći na pravopis                |
-| Matematika          | Radna sveska str. 45 i 56                                                               |
-| Slobodne aktivnosti | Nacrtati kako se štiti od korona virusa                                                 |
+|       Predmet       |                     Zadaci                     |
+| ------------------- | ---------------------------------------------- |
+| Srpski              | Prepisati pravilno [listić] pazeći na pravopis |
+| Matematika          | Radna sveska str. 45 i 56                      |
+| Slobodne aktivnosti | Nacrtati kako se štiti od korona virusa        |
+
+[listć]: https://raw.githubusercontent.com/majkinetor/online-nastava/master/a/srp/jadransko_more.jpg
 
 ### Engleski
 
