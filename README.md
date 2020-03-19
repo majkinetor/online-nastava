@@ -3,15 +3,13 @@
 
 Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema učiteljica (Mirjana Gajdobranski) za kućnu nastavu. Suplement za TV program.
 
-## Linkovi
-
-- [Moja škola - RTS Planeta](https://rtsplaneta.rs/video/list/category/524/3-razred)
-- [Raspored nastave za 3 razred](https://www.rasporednastave.gov.rs/iii-razred.php)
-
 **Način upotrebe**
 
 - radi online prateći hiper-linkove, ili
 - preuzmi sve offline putem [arhive](https://github.com/majkinetor/online-nastava/archive/master.zip) i prati `README.md` iz bilo kog editora (npr. Notepad)
+
+
+---
 
 **TOC**
 
@@ -19,6 +17,13 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 - [2020-03-18 (Četvrtak)](#2020-03-18-%c4%8cetvrtak)
   - [Engleski](#engleski)
 - [2020-03-17 (Sreda)](#2020-03-17-sreda)
+
+---
+
+## Linkovi
+
+- [Moja škola - RTS Planeta](https://rtsplaneta.rs/video/list/category/524/3-razred)
+- [Raspored nastave za 3 razred](https://www.rasporednastave.gov.rs/iii-razred.php)
 
 
 ## 2020-03-18 (Četvrtak)
