@@ -11,7 +11,7 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 **TOC**
 
 - [Linkovi](#linkovi)
-- [2020-03-18 (Četvrtak)](#2020-03-18-%c4%8cetvrtak)
+- [2020-03-19 (Četvrtak)](#2020-03-19-%c4%8cetvrtak)
 - [2020-03-18 (Sreda)](#2020-03-18-sreda)
   - [Engleski](#engleski)
 - [2020-03-17 (Utorak)](#2020-03-17-utorak)
@@ -22,7 +22,7 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 - [Raspored nastave za 3 razred](https://www.rasporednastave.gov.rs/iii-razred.php)
 
 
-## 2020-03-18 (Četvrtak)
+## 2020-03-19 (Četvrtak)
 
 
 |      Predmet       |                                                                      Zadaci                                                                       |
