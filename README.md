@@ -1,7 +1,9 @@
 <!-- omit in toc -->
 # Online nastava 
 
-Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema učiteljica (Mirjana Gajdobranski) za kućnu nastavu. Suplement za RTS 3 program.
+Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema učiteljica (Mirjana Gajdobranski) za kućnu nastavu. 
+
+Suplement za [RTS 3 program](https://rtsplaneta.rs/video/list/category/524/3-razred).
 
 **Način upotrebe**
 
@@ -58,4 +60,3 @@ Preporuka:
 | Likovna kultura      | Nacrtati vazu sa cvećem bilo kojim bojama                                                                                                                                   |
 | Prirodna i društvo   | Uslovi života u staništu i prilagođenost uslovima života.<br>Pročitati lekcije i odgovoriti na pitanja iz udžbenika strana 73. u svesci i rad u radnoj svesci na strani 83. |
 | Građansko vaspitanje | nacrtati strip po dogovoru                                                                                                                                                  |
-
