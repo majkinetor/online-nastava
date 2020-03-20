@@ -11,11 +11,12 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 **TOC**
 
 - [Linkovi](#linkovi)
-- [2020-03-20 (Petak)](#2020-03-20-petak)
-- [2020-03-19 (Četvrtak)](#2020-03-19-%c4%8cetvrtak)
-- [2020-03-18 (Sreda)](#2020-03-18-sreda)
-  - [Engleski](#engleski)
-- [2020-03-17 (Utorak)](#2020-03-17-utorak)
+- [2020-03](#2020-03)
+  - [2020-03-20 (Petak)](#2020-03-20-petak)
+  - [2020-03-19 (Četvrtak)](#2020-03-19-%c4%8cetvrtak)
+  - [2020-03-18 (Sreda)](#2020-03-18-sreda)
+    - [Engleski](#engleski)
+  - [2020-03-17 (Utorak)](#2020-03-17-utorak)
 
 ## Linkovi
 
@@ -23,7 +24,9 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 - [Raspored nastave za 3 razred](https://www.rasporednastave.gov.rs/iii-razred.php)
 
 
-## 2020-03-20 (Petak)
+## 2020-03
+
+### 2020-03-20 (Petak)
 
 |      Predmet      |                                          Zadaci                                           |
 | ----------------- | ----------------------------------------------------------------------------------------- |
@@ -37,7 +40,7 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 [upravni govor]: a/srp/upravni-govor.md 
 [Falila mi se]: https://www.youtube.com/watch?v=3ty1AgjQxkw
 
-## 2020-03-19 (Četvrtak)
+### 2020-03-19 (Četvrtak)
 
 
 |      Predmet       |                                                                                    Zadaci                                                                                    |
@@ -52,7 +55,7 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 [Lanac ishrane]:                    https://www.youtube.com/watch?v=zeU3NbSRLtE&feature=youtu.be
 [Zavisnost količnika od deljenika]: https://www.youtube.com/watch?v=MN_255T_fMc
 
-## 2020-03-18 (Sreda)
+### 2020-03-18 (Sreda)
 
 |       Predmet       |                     Zadaci                     |
 | ------------------- | ---------------------------------------------- |
@@ -62,7 +65,7 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 
 [listć]: https://raw.githubusercontent.com/majkinetor/online-nastava/master/a/srp/jadransko_more.jpg
 
-### Engleski
+#### Engleski
 
 Do Subote, 2020-03-21
 
@@ -88,7 +91,7 @@ Preporuka:
     - Zvučni rečnik
     - Vocabulary
 
-## 2020-03-17 (Utorak)
+### 2020-03-17 (Utorak)
 
 |       Predmet        |                                                                                   Zadaci                                                                                    |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
