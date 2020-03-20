@@ -22,6 +22,7 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 
 - [Moja škola - RTS Planeta](https://rtsplaneta.rs/video/list/category/524/3-razred)
 - [Raspored nastave za 3 razred](https://www.rasporednastave.gov.rs/iii-razred.php)
+- Kratak link ka ovom dokumentu: https://tinyurl.com/os-barili-3
 
 
 ## 2020-03
