@@ -11,6 +11,7 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 **TOC**
 
 - [Linkovi](#linkovi)
+- [2020-03-20 (Petak)](#2020-03-20-petak)
 - [2020-03-19 (Četvrtak)](#2020-03-19-%c4%8cetvrtak)
 - [2020-03-18 (Sreda)](#2020-03-18-sreda)
   - [Engleski](#engleski)
@@ -21,6 +22,20 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 - [Moja škola - RTS Planeta](https://rtsplaneta.rs/video/list/category/524/3-razred)
 - [Raspored nastave za 3 razred](https://www.rasporednastave.gov.rs/iii-razred.php)
 
+
+## 2020-03-20 (Petak)
+
+|      Predmet      |                                          Zadaci                                           |
+| ----------------- | ----------------------------------------------------------------------------------------- |
+| Narodna tradicija | Stari zanati: bojadžija, odgledati [video snimak]                                         |
+| Srpski jezik      | Pogledati RTS program u uraditi njihov domaći.<br>Uraditi zadatak [upravni govor]         |
+| Matematika        | Pogledati RTS program, uraditi njihov domaći.<br>Raditi zadatke u Radnoj svesci strana 48 |
+| Muzička kultura | Pesma [Falila mi se]|
+
+
+[video snimak]: https://www.youtube.com/watch?time_continue=2&v=X7glIjxX2Gs&feature=emb_title
+[upravni govor]: a/srp/upravni-govor.md 
+[Falila mi se]: https://www.youtube.com/watch?v=3ty1AgjQxkw
 
 ## 2020-03-19 (Četvrtak)
 
