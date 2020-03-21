@@ -35,7 +35,7 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 | Srpski jezik       | Upravni govor<br>Usmeno podsećanje pravila kroz gledanje TV lekcije                         |
 | Matematika         | Šta smo naučili, prelistati prethodne urađene lekcije i odgledati TV lekciju                |
 | Fizičko vaspitanje | Vežbe istezanja                                                                             |
-| ČOS                | Pozorišna predstava - odgledati online pozorišnu predstavu [pinokio](http://www.pinokio.rs) |
+| ČOS                | Pozorišna predstava - odgledati online pozorišnu predstavu [pinokio](https://www.youtube.com/watch?v=L26fGVHC4Ws&feature=emb_title) |
 
 ### 2020-03-20 (Petak)
 
