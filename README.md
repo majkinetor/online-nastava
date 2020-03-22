@@ -12,7 +12,7 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 
 - [Google učionica](#google-u%c4%8dionica)
 - [Linkovi](#linkovi)
-- [2020-03](#2020-03)
+- [2020-03 17-21](#2020-03-17-21)
   - [2020-03-21 (Subota)](#2020-03-21-subota)
   - [2020-03-20 (Petak)](#2020-03-20-petak)
   - [2020-03-19 (Četvrtak)](#2020-03-19-%c4%8cetvrtak)
@@ -46,7 +46,7 @@ Pristupni kodovi za predmete u okviru [Google učionice](https://classroom.googl
 - Kratak link ka ovom dokumentu: https://tinyurl.com/os-barili-3
 
 
-## 2020-03
+## 2020-03 17-21
 
 ### 2020-03-21 (Subota)
 
