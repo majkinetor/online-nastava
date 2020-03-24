@@ -14,10 +14,11 @@ Online nastava iz OŠ Milena Pavlović Barili, za 3 razred. Zadatke priprema uč
 - [Linkovi](#linkovi)
 - [2020-03 17-21](#2020-03-17-21)
   - [2020-03-21 (Subota)](#2020-03-21-subota)
+    - [Engleski](#engleski)
   - [2020-03-20 (Petak)](#2020-03-20-petak)
   - [2020-03-19 (Četvrtak)](#2020-03-19-%c4%8cetvrtak)
   - [2020-03-18 (Sreda)](#2020-03-18-sreda)
-    - [Engleski](#engleski)
+    - [Engleski](#engleski-1)
   - [2020-03-17 (Utorak)](#2020-03-17-utorak)
 
 ## Google učionica
@@ -56,6 +57,14 @@ Pristupni kodovi za predmete u okviru [Google učionice](https://classroom.googl
 | Matematika         | Šta smo naučili, prelistati prethodne urađene lekcije i odgledati TV lekciju                |
 | Fizičko vaspitanje | Vežbe istezanja                                                                             |
 | ČOS                | Pozorišna predstava - odgledati online pozorišnu predstavu [pinokio](https://www.youtube.com/watch?v=L26fGVHC4Ws&feature=emb_title) |
+
+#### Engleski
+
+Do Srede
+
+- Uraditi do srede udž. 70.i 71. - Samo pročitati i sa cd-a ili linka
+- U radnoj svesci str. 66.i 67
+- [Provera](a/eng/1)
 
 ### 2020-03-20 (Petak)
 
